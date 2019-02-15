@@ -2,9 +2,13 @@ This is an automated test suite for the Tokenizer.
 
 Move these files into your working directory for the project.
 
-run: ruby test_suite.rb <language_name> <runnable_file_name>
+run:
+```sh
+$ ruby test_suite.rb <language_name> <runnable_file_name>
+```
 
 Where <language_name> is "java" or "python3.5"
+
 and   <runnable_file_name> is "Tokenizer" or "Tokenizer.py"
 
 
